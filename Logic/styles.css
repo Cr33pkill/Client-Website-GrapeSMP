@@ -119,3 +119,15 @@ footer p {
     background-color: var(--otherpurple);
     padding: 1rem 2rem;
 }
+.license {
+    text-align: left;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 2rem;
+    line-height: 1.4rem;
+    font-weight: bold;
+    color: var(--black);
+    font-size: 1.2rem;
+    background: var(--white);
+    height: 1080px;
+}
